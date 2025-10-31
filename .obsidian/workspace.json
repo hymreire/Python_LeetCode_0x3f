@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "13853bf75302a4ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "46fad8ed6bb7f421",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd04de89272ff552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSH.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SSH"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89b81bf8753b4739",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc9cb70aa4aa7117",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84be256731936ce8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "48a50c05c50fa4df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ed9a49af9e20125c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "914cb5397487e97c",
+    "type": "split",
+    "children": [
+      {
+        "id": "faf7be96e2c122af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac5aa63fe5544f10",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "f5bc2572c9451441",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "be73d034305f2081",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "69b99a582a94271a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "fd04de89272ff552",
+  "lastOpenFiles": [
+    "README.md",
+    "SSH.md",
+    "ViewCrafter环境安装.md",
+    "ffmpeg.md",
+    "GPU.md",
+    "pip install.md",
+    "未命名.md",
+    "conda.md",
+    "Debug.md",
+    "SpatialCrafter.md",
+    "0_My_Note/Lec7_函数的高级用法/Lec7.函数高级用法.md",
+    "0_My_Note/Lec8_ARM_程序加速/Lec8_ARM_程序加速.md",
+    "0_My_Note/Lec8_ARM_程序加速",
+    "0_My_Note/Lec8",
+    "0_My_Note/新建文件夹",
+    "Note/Lec7/Lec7.函数高级用法.md",
+    "week07/Lecture07.pdf",
+    "Note",
+    "week07/Lab07.pdf",
+    "Note/Lec7",
+    "week07/README.md",
+    "Notes/Lab5.md",
+    "week07",
+    "Notes/Lec5.md",
+    "a.out",
+    "memoryleak.c",
+    "未命名.canvas",
+    "未命名 1.canvas"
+  ]
+}
