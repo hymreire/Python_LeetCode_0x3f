@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSH.md",
-                "mode": "source",
+                "file": "Lec14_15_16_回溯.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SSH"
+              "title": "Lec14_15_16_回溯"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "914cb5397487e97c",
@@ -167,32 +168,34 @@
   },
   "active": "fd04de89272ff552",
   "lastOpenFiles": [
+    "L.py",
+    "L77_Combinations.py",
+    "git_interactive.bat",
+    "git_status.bat",
+    "git_pull.bat",
+    "git_quick_commit.bat",
+    "L131_Palindrome_Partitioning.py",
+    "L78_Subsets.py",
+    "L17_Letter_Combinations_of_a_Phone_Number.py",
+    "L17.py",
+    "回溯的题目参考回答.md",
+    "Lec14_15_16_回溯.md",
+    "code.py",
     "README.md",
     "SSH.md",
     "ViewCrafter环境安装.md",
     "ffmpeg.md",
     "GPU.md",
     "pip install.md",
-    "未命名.md",
     "conda.md",
     "Debug.md",
     "SpatialCrafter.md",
     "0_My_Note/Lec7_函数的高级用法/Lec7.函数高级用法.md",
     "0_My_Note/Lec8_ARM_程序加速/Lec8_ARM_程序加速.md",
-    "0_My_Note/Lec8_ARM_程序加速",
-    "0_My_Note/Lec8",
-    "0_My_Note/新建文件夹",
     "Note/Lec7/Lec7.函数高级用法.md",
-    "week07/Lecture07.pdf",
-    "Note",
-    "week07/Lab07.pdf",
-    "Note/Lec7",
     "week07/README.md",
     "Notes/Lab5.md",
-    "week07",
     "Notes/Lec5.md",
-    "a.out",
-    "memoryleak.c",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
