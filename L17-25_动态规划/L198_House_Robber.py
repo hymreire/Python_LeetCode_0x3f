@@ -53,6 +53,6 @@ class Solution:
     def rob(self, nums: List[int]) -> int:
         f0=f1=0
         for x in nums:
-            f1,f0=max(f0+x,f1),f1
+            f1,f0=max(f0+x,f1),f1 # 这里利用了python的赋值特性，无需再维护一个缓存变量
         return f1
 # 上面这种想不到也无所谓，多做题目就能够自主判断应该选择哪个模型
