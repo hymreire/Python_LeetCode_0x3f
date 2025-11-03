@@ -11,14 +11,10 @@
             "id": "6a811ac8cd3fdd54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L18_背包问题.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "L18_背包问题"
+              "title": "新标签页"
             }
           }
         ]
@@ -165,10 +161,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6a811ac8cd3fdd54",
+  "active": "84be256731936ce8",
   "lastOpenFiles": [
-    "L494_Target Sum.py",
+    "L322_Coin_Change.py",
+    "L17-25_动态规划/L322_Coin_Change.py",
+    "L17-25_动态规划/L18_背包问题.md",
+    "L17-25_动态规划/L494_Target Sum.py",
     "L.py",
+    "L494_Target Sum.py",
     "L17-25_动态规划/L17_动态规划入门.md",
     "L18_背包问题.md",
     "L17_动态规划",
@@ -178,9 +178,6 @@
     "L51_N-Queens.py",
     "L46_Permutations.py",
     "L22_Generate_Parentheses.py",
-    "L77_Combinations.py",
-    "git_interactive.bat",
-    "git_status.bat",
     "回溯的题目参考回答.md",
     "Lec14_15_16_回溯.md",
     "README.md",
