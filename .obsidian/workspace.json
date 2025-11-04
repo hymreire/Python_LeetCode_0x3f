@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5376f2f6b3939c42",
+        "id": "d64fb41c189e2458",
         "type": "tabs",
         "children": [
           {
-            "id": "53437a5e0c2c0050",
+            "id": "1773f742aaabd8f4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,7 +161,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "53437a5e0c2c0050",
+  "active": "84be256731936ce8",
   "lastOpenFiles": [
     "L_19_20_线性DP.md",
     "L1143_Longest_Common_Subsequence.py",
