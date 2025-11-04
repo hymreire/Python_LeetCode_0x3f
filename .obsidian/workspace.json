@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "49340cfa4e64b816",
+        "id": "5376f2f6b3939c42",
         "type": "tabs",
         "children": [
           {
-            "id": "6a811ac8cd3fdd54",
+            "id": "53437a5e0c2c0050",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,13 +161,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "84be256731936ce8",
+  "active": "53437a5e0c2c0050",
   "lastOpenFiles": [
+    "L_19_20_线性DP.md",
+    "L1143_Longest_Common_Subsequence.py",
+    "L.py",
     "L322_Coin_Change.py",
     "L17-25_动态规划/L322_Coin_Change.py",
     "L17-25_动态规划/L18_背包问题.md",
     "L17-25_动态规划/L494_Target Sum.py",
-    "L.py",
     "L494_Target Sum.py",
     "L17-25_动态规划/L17_动态规划入门.md",
     "L18_背包问题.md",
@@ -176,8 +178,6 @@
     "L17_动态规划入门.md",
     "L52_N-Queens_II.py",
     "L51_N-Queens.py",
-    "L46_Permutations.py",
-    "L22_Generate_Parentheses.py",
     "回溯的题目参考回答.md",
     "Lec14_15_16_回溯.md",
     "README.md",
