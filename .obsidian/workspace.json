@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "47f7d4ebeafa5f45",
+        "id": "f4c0013f968f3e93",
         "type": "tabs",
         "children": [
           {
-            "id": "f7be8f67d971223c",
+            "id": "779d1f4e5850cecc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,11 +161,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f7be8f67d971223c",
+  "active": "779d1f4e5850cecc",
   "lastOpenFiles": [
+    "L22_区间DP.md",
+    "L1039_Minimum_Score_Triangulation_of_Polygon.py",
+    "L.py",
     "L21_状态机DP.md",
     "L188_Best_Time_to_Buy_and_Sell_Stock_IV.py",
-    "L.py",
     "L309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.py",
     "L122_Best_Time_to_Buy_and_Sell_Stock_II.py",
     "L_19_20_线性DP.md",
@@ -177,7 +179,6 @@
     "L494_Target Sum.py",
     "L17-25_动态规划/L17_动态规划入门.md",
     "L18_背包问题.md",
-    "L17_动态规划",
     "L17_动态规划入门.md",
     "回溯的题目参考回答.md",
     "Lec14_15_16_回溯.md",
