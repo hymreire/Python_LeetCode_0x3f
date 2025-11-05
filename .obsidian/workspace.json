@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d64fb41c189e2458",
+        "id": "47f7d4ebeafa5f45",
         "type": "tabs",
         "children": [
           {
-            "id": "1773f742aaabd8f4",
+            "id": "f7be8f67d971223c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,11 +161,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "84be256731936ce8",
+  "active": "f7be8f67d971223c",
   "lastOpenFiles": [
+    "L21_状态机DP.md",
+    "L188_Best_Time_to_Buy_and_Sell_Stock_IV.py",
+    "L.py",
+    "L309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.py",
+    "L122_Best_Time_to_Buy_and_Sell_Stock_II.py",
     "L_19_20_线性DP.md",
     "L1143_Longest_Common_Subsequence.py",
-    "L.py",
     "L322_Coin_Change.py",
     "L17-25_动态规划/L322_Coin_Change.py",
     "L17-25_动态规划/L18_背包问题.md",
@@ -174,10 +178,7 @@
     "L17-25_动态规划/L17_动态规划入门.md",
     "L18_背包问题.md",
     "L17_动态规划",
-    "L198_House_Robber.py",
     "L17_动态规划入门.md",
-    "L52_N-Queens_II.py",
-    "L51_N-Queens.py",
     "回溯的题目参考回答.md",
     "Lec14_15_16_回溯.md",
     "README.md",
