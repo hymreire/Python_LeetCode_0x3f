@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f4c0013f968f3e93",
+        "id": "afdfd00cb2f6165b",
         "type": "tabs",
         "children": [
           {
-            "id": "779d1f4e5850cecc",
+            "id": "2f6a4d1ca78c6771",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "779d1f4e5850cecc",
+  "active": "2f6a4d1ca78c6771",
   "lastOpenFiles": [
+    "L17-25_动态规划/L2246_Longest_Path_With_Different_Adjacent_Characters.py",
+    "L17-25_动态规划/L543_Diameter_of_Binary_Tree.py",
+    "L17-25_动态规划/L124_Binary_Tree_Maximum_Path_Sum.py",
+    "L17-25_动态规划/L23_树形DP1_树的直径.md",
+    "L23_树形DP1_树的直径.md",
     "L22_区间DP.md",
     "L1039_Minimum_Score_Triangulation_of_Polygon.py",
     "L.py",
@@ -175,8 +180,6 @@
     "L322_Coin_Change.py",
     "L17-25_动态规划/L322_Coin_Change.py",
     "L17-25_动态规划/L18_背包问题.md",
-    "L17-25_动态规划/L494_Target Sum.py",
-    "L494_Target Sum.py",
     "L17-25_动态规划/L17_动态规划入门.md",
     "L18_背包问题.md",
     "L17_动态规划入门.md",
@@ -196,7 +199,6 @@
     "Note/Lec7/Lec7.函数高级用法.md",
     "week07/README.md",
     "Notes/Lab5.md",
-    "Notes/Lec5.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
