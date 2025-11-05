@@ -11,10 +11,14 @@
             "id": "2f6a4d1ca78c6771",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "L24_25_树形DP_2_3_独立集_支配集.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "L24_25_树形DP_2_3_独立集_支配集"
             }
           }
         ]
@@ -163,6 +167,10 @@
   },
   "active": "2f6a4d1ca78c6771",
   "lastOpenFiles": [
+    "L24_25_树形DP_2_3_独立集_支配集.md",
+    "L968_Binary_Tree_Cameras.py",
+    "L.py",
+    "L337_House_Robber_III.py",
     "L17-25_动态规划/L2246_Longest_Path_With_Different_Adjacent_Characters.py",
     "L17-25_动态规划/L543_Diameter_of_Binary_Tree.py",
     "L17-25_动态规划/L124_Binary_Tree_Maximum_Path_Sum.py",
@@ -170,15 +178,11 @@
     "L23_树形DP1_树的直径.md",
     "L22_区间DP.md",
     "L1039_Minimum_Score_Triangulation_of_Polygon.py",
-    "L.py",
     "L21_状态机DP.md",
     "L188_Best_Time_to_Buy_and_Sell_Stock_IV.py",
     "L309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.py",
     "L122_Best_Time_to_Buy_and_Sell_Stock_II.py",
     "L_19_20_线性DP.md",
-    "L1143_Longest_Common_Subsequence.py",
-    "L322_Coin_Change.py",
-    "L17-25_动态规划/L322_Coin_Change.py",
     "L17-25_动态规划/L18_背包问题.md",
     "L17-25_动态规划/L17_动态规划入门.md",
     "L18_背包问题.md",

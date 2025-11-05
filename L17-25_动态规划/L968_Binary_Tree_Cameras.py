@@ -1,0 +1,21 @@
+# 968. Binary Tree Cameras
+
+class Solution:
+    def minCameraCover(self, root: Optional[TreeNode]) -> int:
+        def dfs(node): # 当前节点安装摄像头、父节点安装、子节点安装，该节点树所需最小全局覆盖数
+            if node==None:
+                return inf,0,0 # 在空节点不要安装摄像头
+            l_cur,l_fa,l_chi=dfs(node.left)
+            r_cur,r_fa,r_chi=dfs(node.right)
+            cur=min(l_cur,l_fa)+min(r_cur,r_fa)+1 # 当前安装，子树可以考虑自安装、父安装两种情况
+            # Q：子安装为什么不考虑？A：子安装在计算l_cur时自行考虑。
+
+            fa=min(l_cur,l_chi)+min(r_cur,r_chi) # 当前父安装，子树可以考虑自安装、子安装两种情况（此时没有父安装）
+            chi=min(
+                l_cur+r_chi,
+                l_chi+r_cur,
+                l_cur+r_cur
+            ) # 当前子安装，子树至少要有一个能够照顾到当前节点（此时没有父安装）
+            return cur,fa,chi
+        cur,fa,chi=dfs(root)
+        return min(cur,chi)
